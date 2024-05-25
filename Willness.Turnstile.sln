@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Willness.Turnstile.Server", "Willness.Turnstile.Server\Willness.Turnstile.Server.csproj", "{0394218F-40C9-44D0-98A2-B620F5A85688}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "willness.turnstile.client", "willness.turnstile.client\willness.turnstile.client.esproj", "{0B65E7C0-EA2F-4C69-AC91-97800A7B8BD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0394218F-40C9-44D0-98A2-B620F5A85688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0394218F-40C9-44D0-98A2-B620F5A85688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0394218F-40C9-44D0-98A2-B620F5A85688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0394218F-40C9-44D0-98A2-B620F5A85688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B65E7C0-EA2F-4C69-AC91-97800A7B8BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B65E7C0-EA2F-4C69-AC91-97800A7B8BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B65E7C0-EA2F-4C69-AC91-97800A7B8BD5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0B65E7C0-EA2F-4C69-AC91-97800A7B8BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B65E7C0-EA2F-4C69-AC91-97800A7B8BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B65E7C0-EA2F-4C69-AC91-97800A7B8BD5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFA37AD1-4BED-43DD-9063-F9A7D8DF2F19}
+	EndGlobalSection
+EndGlobal
