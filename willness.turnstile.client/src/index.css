@@ -72,8 +72,4 @@ table th, table td {
     button {
         background-color: #f9f9f9;
     }
-
-    table th, table td {
-        color: rgba(255, 255, 255, 0.87);
-    }
 }
